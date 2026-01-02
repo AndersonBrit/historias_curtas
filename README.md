@@ -1,4 +1,4 @@
-<h1 align="center">📚 Historias_Curtas_WebSite</h1>
+<h1 align="center">📚 Historias-Curtas-WebSite</h1>
 
 <p align="center">
   <img src="docs/Banner.png" alt="Banner" width="600">
