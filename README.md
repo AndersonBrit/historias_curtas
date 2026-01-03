@@ -64,13 +64,13 @@ Example image used in the **Little Red Riding Hood** story:
 
 ## 👨‍💻 Authors
 
-Project developed as part of the vocational course
+Project developed as part of the vocational course  
 **Management and Programming of Information Systems (GPSI)**
 
 **School:** Escola Profissional Bento Jesus Caraça (EPBJC)  
 **Subject:** PSI  
 **Year:** 10th Grade  
-**Authors:** Andérson Brito & Rodrigo Silva  
+**Authors:** Andérson Brito & Rodrigo Silva
 
 ---
 
